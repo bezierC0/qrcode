@@ -70,7 +70,6 @@ This project uses code from:
 - QR Code generator library by Project Nayuki (MIT License)
 - ZXing library components (Apache License 2.0)
 
----
 
 ## Building
 
